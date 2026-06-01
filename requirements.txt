@@ -3,6 +3,5 @@ opencv-python-headless
 face-recognition
 numpy
 pandas
-openpyxl
 Pillow
-openpyxl
+openpyxl==3.1.5
