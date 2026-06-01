@@ -1,6 +1,8 @@
 streamlit
-opencv-python
-face_recognition
+opencv-python-headless
+face-recognition
 numpy
 pandas
+openpyxl
+Pillow
 openpyxl
