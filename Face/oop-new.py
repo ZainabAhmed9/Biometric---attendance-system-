@@ -2,8 +2,8 @@
 import streamlit as st
 st.set_page_config(page_title="Biometric Attendance System", page_icon="👤", layout="wide", initial_sidebar_state="expanded")
 
-#import cv2
-#import face_recognition
+import cv2
+import face_recognition
 import numpy as np
 import os
 import sqlite3
